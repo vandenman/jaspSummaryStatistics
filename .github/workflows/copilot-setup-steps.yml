@@ -44,8 +44,6 @@ jobs:
           extra-packages: |
             any::rcmdcheck
             github::jasp-stats/jaspTools
-            github::jasp-stats/jaspBase
-            github::jasp-stats/jaspGraphs
           needs: check
           cache-version: 3
 
