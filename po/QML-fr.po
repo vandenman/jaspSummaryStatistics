@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "Description|"
 msgid "T-Tests"
-msgstr "Tests T"
+msgstr "T-Tests"
 
 msgctxt "Description|"
 msgid "Bayesian Independent Samples T-Test"
@@ -66,7 +66,7 @@ msgstr "R.S. Régression Linéaire Bayésienne"
 
 msgctxt "Description|"
 msgid "Frequencies"
-msgstr "Fréquences"
+msgstr "Fréquence"
 
 msgctxt "Description|"
 msgid "Bayesian Binomial Test"
@@ -360,10 +360,6 @@ msgstr ""
 
 msgctxt "SummaryStatsGeneralBayesianTests|"
 msgid "Binomial"
-msgstr ""
-
-msgctxt "SummaryStatsGeneralBayesianTests|"
-msgid "Non-central d"
 msgstr ""
 
 msgctxt "SummaryStatsGeneralBayesianTests|"
@@ -824,4 +820,117 @@ msgstr "Taille de l'échantillon"
 
 msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
 msgid "Sample size group 2"
+msgstr ""
+
+msgctxt "SummaryStatsGeneralBayesianTests|"
+msgid "Non-central d (one-sample)"
+msgstr ""
+
+msgctxt "SummaryStatsGeneralBayesianTests|"
+msgid "Non-central d (two-sample)"
+msgstr ""
+
+msgctxt "SummaryStatsGeneralBayesianTests|"
+msgid "Observations (Group 1)"
+msgstr ""
+
+msgctxt "SummaryStatsGeneralBayesianTests|"
+msgid "Observations (Group 2)"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Cohen's d"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Mean 1"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "SD 1"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Mean 2"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "SD 2"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Input Type"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "t and Sample Sizes"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Cohen's d and Sample Sizes"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianIndependentSamples|"
+msgid "Means, SDs, and Sample Sizes"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Cohen's d"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Mean"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "SD"
+msgstr ""
+
+#, fuzzy
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Test value"
+msgstr "Valeur du test"
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Input Type"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "t and Sample Size"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Cohen's d and Sample Size"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianOneSample|"
+msgid "Mean, SD, and Sample Size"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "Cohen's d"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "Mean difference"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "SD"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "Input Type"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "t and Sample Size"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "Cohen's d and Sample Size"
+msgstr ""
+
+msgctxt "SummaryStatsTTestBayesianPairedSamples|"
+msgid "Mean Diff., SD, and Sample Size"
 msgstr ""
